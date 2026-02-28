@@ -1,0 +1,13 @@
+C:\Users\lordm\source\repos2\SimpleCompressor\bin\Debug\SimpleCompressor.exe.config
+C:\Users\lordm\source\repos2\SimpleCompressor\bin\Debug\SimpleCompressor.exe
+C:\Users\lordm\source\repos2\SimpleCompressor\bin\Debug\SimpleCompressor.pdb
+C:\Users\lordm\source\repos2\SimpleCompressor\bin\Debug\SimpleCompressor.xml
+C:\Users\lordm\source\repos2\SimpleCompressor\obj\Debug\SimpleCompressor.vbproj.AssemblyReference.cache
+C:\Users\lordm\source\repos2\SimpleCompressor\obj\Debug\SimpleCompressor.Form1.resources
+C:\Users\lordm\source\repos2\SimpleCompressor\obj\Debug\SimpleCompressor.Resources.resources
+C:\Users\lordm\source\repos2\SimpleCompressor\obj\Debug\SimpleCompressor.vbproj.GenerateResource.cache
+C:\Users\lordm\source\repos2\SimpleCompressor\obj\Debug\SimpleCompressor.vbproj.CoreCompileInputs.cache
+C:\Users\lordm\source\repos2\SimpleCompressor\obj\Debug\SimpleCompressor.exe
+C:\Users\lordm\source\repos2\SimpleCompressor\obj\Debug\SimpleCompressor.xml
+C:\Users\lordm\source\repos2\SimpleCompressor\obj\Debug\SimpleCompressor.pdb
+C:\Users\lordm\source\repos2\SimpleCompressor\obj\Debug\SimpleCompressor.exe.config
